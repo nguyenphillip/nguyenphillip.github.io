@@ -19,7 +19,8 @@ section {
 }
 
 .carousel-caption{
-	 text-shadow: 0px 0px 3px black;
+	color: black;
+	text-shadow: 0px 0px 3px white;
 }
 
 .glyphicon.glyphicon-chevron-right{
